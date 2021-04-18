@@ -1,2 +1,2 @@
 # deep-learning
- tensorflow and pytorch implementation of various deep learning architectures and use-casess
+ tensorflow and pytorch implementation of various deep learning architectures and use-cases
